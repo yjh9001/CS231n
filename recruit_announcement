@@ -1,0 +1,30 @@
+안녕하세요. Deep Learning 스터디 멤버를 모집합니다.
+
+딥러닝을 배우고자 하는 사람들이 모여 같이 공부하는 스터디이며, 비용은 없습니다.
+효율적인 스터디를 위해 정원은 최대 8명으로 제한하겠습니다.
+
+- 기간: 2017 Jan ~ 2017 Mar (9주)
+- 주제: Convolutional Neural Networks for Visual Recognition
+- 스터디 시간: 화요일 저녁 7-9시 (잠정)
+- 스터디 장소: Purdue 캠퍼스 내 (정확한 장소는 추후 공지)
+- 온라인 페이지: https://github.com/PurdueDeepLearning/
+- Prerequisites: Proficiency/experience in Python and knowledge of machine learning
+- 스터디 참가신청: https://goo.gl/forms/TzNe6Mfd0idE8hfx2
+
+스터디 주제는 스탠포드 대학 cs231n 강의(by Fei-Fei Li, Andrej Karpathy, and Justin Johnson)로 선정하였습니다. 이미지 분류, 지역화, 검출과 같은 Visual recognition에 대한 강의이며, Convolutional Neural Network를 사용하여 퍼포먼스의 큰 발전을 이룬 분야입니다.
+ 
+강의 사이트:  http://cs231n.stanford.edu/
+강의 자료:  http://cs231n.github.io/
+	  http://cs231n.stanford.edu/syllabus.html (ppt)
+강의 영상: 총 15개로 편당 1시간 분량이며 youtube에 공개되어 있습니다.
+           구글 드라이브나 토렌트로도 공유되고 있습니다. (자막과 함께 시청)
+           https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA
+           자막과 기타 번역은 aikorea에서 제공하는데, 한글자막은 아직 준비되지 않았습니다.
+           https://github.com/aikorea/cs231n
+           https://github.com/aikorea/cs231n/tree/master/captions/En
+ 
+진행방식은 매주 강의 2편씩 각자 시청하고, 오프라인 모임에서 그날 담당자가 내용을 review하고, 토론과 QnA를 합니다.
+
+스터디 참가신청은 https://goo.gl/forms/TzNe6Mfd0idE8hfx2 에서 해주시고, 궁금한 점이 있으시면 jibikbam@gmail.com로 메일 주시기 바랍니다.
+
+감사합니다.

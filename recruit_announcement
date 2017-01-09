@@ -11,7 +11,8 @@
 - Prerequisites: Proficiency/experience in Python and knowledge of machine learning
 - 스터디 참가신청: https://goo.gl/forms/TzNe6Mfd0idE8hfx2
 
-스터디 주제는 스탠포드 대학 cs231n 강의(by Fei-Fei Li, Andrej Karpathy, and Justin Johnson)로 선정하였습니다. 이미지 분류, 지역화, 검출과 같은 Visual recognition에 대한 강의이며, Convolutional Neural Network를 사용하여 퍼포먼스의 큰 발전을 이룬 분야입니다.
+스터디 주제는 스탠포드 대학 cs231n 강의(by Fei-Fei Li, Andrej Karpathy, and Justin Johnson)로 선정하였습니다.
+이미지 분류, 지역화, 검출과 같은 Visual recognition에 대한 강의이며, Convolutional Neural Network를 사용하여 퍼포먼스의 큰 발전을 이룬 분야입니다.
  
 강의 사이트:  http://cs231n.stanford.edu/
 강의 자료:  http://cs231n.github.io/
